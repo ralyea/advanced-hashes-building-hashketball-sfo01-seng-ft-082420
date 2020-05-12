@@ -1,4 +1,4 @@
-def game_hash(:home,:away)
+def game_hash()
   {}
 
 
